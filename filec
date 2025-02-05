@@ -1,2 +1,2 @@
 this is file c
-to push changes to remote repository use command " push -u origin master"
+to push changes to remote repository use command " git push -u origin master"
